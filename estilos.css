@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.marco-basico {
+  border: 4px solid #333333;
+}
